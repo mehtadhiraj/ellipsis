@@ -2336,6 +2336,14 @@ span.email-notes {
   padding-top: 30px;
 }
 
+.designation{
+  color: #78909c;
+}
+
+.profile-description{
+  padding: 8px;
+}
+
 /*----------------------------------------
  .End CSS
 ----------------------------------------*/
